@@ -1,0 +1,12 @@
+.postsItem {
+  width: 100%;
+}
+.postsTitle {
+  font-weight: bold;
+  font-size: 23px;
+  color: lightblue;
+}
+.postsBody {
+  margin-bottom: 80px;
+  font-size: 15px;
+}

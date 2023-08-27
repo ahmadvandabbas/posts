@@ -1,0 +1,22 @@
+.main {
+  width: 100%;
+  margin: 20px;
+
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.title {
+  margin-bottom: 10px;
+}
+.text {
+  font-size: 15px;
+  padding: 20px;
+}
+.linkPosts {
+  margin-top: 30px;
+  font-size: 20px;
+}
